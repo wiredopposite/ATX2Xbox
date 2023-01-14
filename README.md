@@ -3,7 +3,7 @@
 
 Adapts an ATX power supply source for use with the original Xbox.
 
-# BOM
+# PCB BOM
 | Qty | Value/Model | Description | Marking | URL (Passive components provided as sample only) |
 | --- | --- | --- | --- | --- |
 | 1 | 0353182020 | 20 or 24 pin male ATX header (4.20mm) | ATX | https://www.digikey.com/short/zf9pj8mr |
