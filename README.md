@@ -24,7 +24,7 @@ Adapts an ATX power supply source for use with the original Xbox.
 | 15+ | 0039000038 | CONN SOCKET 18-24AWG CRIMP TIN| https://www.digikey.com/short/97j8jbt2 |
 
 # Cable for v1.0-1.1 Xbox
-| Qty | Value/Model | Description | Marking | URL |
+| Qty | Value/Model | Description | URL |
 | --- | --- | --- | --- |
 | - | - | 18 AWG Stranded Wire | - |
 | 1 | 4-640426-2 | CONN RCPT 12POS IDC 18AWG TIN 3.96mm | https://www.digikey.com/short/wjbrndfq |
