@@ -4,7 +4,7 @@
 
 # ATX2Xbox
 
-Adapts an ATX power supply source for use with the original Xbox.
+Adapts an ATX power supply for use with the original Xbox.
 
 # BOM
 | Qty | Value/Model | Description | Marking | URL (Passive components provided as example) |
