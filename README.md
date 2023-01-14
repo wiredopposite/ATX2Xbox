@@ -20,8 +20,8 @@ Adapts an ATX power supply source for use with the original Xbox.
 | Qty | Value/Model | Description | Marking | URL |
 | --- | --- | --- | --- | --- |
 | - | - | 18 AWG Stranded Wire | - | - |
-| 1 | DMH-20 | CONN RCPT HSG 20POS 4.20MM | - | https://www.digikey.com/short/c1mr8dfd |
-| 15+ | DMH-B-C-F-R | 4.2MM TERM M 18-22AWG BRASS TIN | - | https://www.digikey.com/short/frq3nqvv |
+| 1 | 0039012200 | 20-pos 4.20MM ATX Plug | - | https://www.digikey.com/short/9rhwrdtf |
+| 15+ | 0039000038 | CONN SOCKET 18-24AWG CRIMP TIN | - | https://www.digikey.com/short/97j8jbt2 |
 
 # Cable for v1.0-1.1 Xbox
 | Qty | Value/Model | Description | Marking | URL |
