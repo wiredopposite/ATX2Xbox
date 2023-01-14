@@ -12,3 +12,16 @@ Adapts an ATX power supply source for use with the original Xbox.
 | 2 | RC1608F102CS | 0603 1k Ohm resistor | R1, R2 | https://www.digikey.com/short/1vdfpvv4 |
 | 1 | RC0603JR-07470RL | 0603 470 Ohm Resistor | R3 | https://www.digikey.com/short/fc9hb4hm |
 | 1 | TLV1117 3.3v or LM1117IMP 3.3v | IC REG LIN 3.3V 800MA SOT223-4 | U1 | https://www.digikey.com/short/71td288c |
+
+# Cable BOM (v1.2-1.5 Xbox)
+| Qty | Value/Model | Description | Marking | URL (Passive components provided as sample only) |
+| --- | --- | --- | --- | --- |
+| - | - | 18 AWG Stranded Wire | - | - |
+| 1 | DMH-20 | CONN RCPT HSG 20POS 4.20MM | - | https://www.digikey.com/short/c1mr8dfd |
+| 15 | DME-B2-C-F-R | SOCKET CONTACT (16-20 AWG) - TIN | - | https://www.digikey.com/short/j79w45qb |
+
+# Cable BOM (v1.0-1.1 Xbox)
+| Qty | Value/Model | Description | Marking | URL (Passive components provided as sample only) |
+| --- | --- | --- | --- | --- |
+| - | - | 18 AWG Stranded Wire | - | - |
+| 1 | 4-640426-2 | CONN RCPT 12POS IDC 18AWG TIN 3.96mm | - | https://www.digikey.com/short/wjbrndfq |
