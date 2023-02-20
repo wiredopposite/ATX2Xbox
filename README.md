@@ -19,12 +19,10 @@ Adapts an ATX power supply for use with the original Xbox.
 # Cable for v1.2-1.5 Xbox
 | Qty | Value/Model | Description | URL |
 | --- | --- | --- | --- |
-| - | - | 18 AWG Stranded Wire | - |
 | 1 | 0039012200 | 20-pos 4.20MM ATX Plug | https://www.digikey.com/short/9rhwrdtf |
 | 15+ | 0039000038 | CONN SOCKET 18-24AWG CRIMP TIN| https://www.digikey.com/short/97j8jbt2 |
 
 # Cable for v1.0-1.1 Xbox
 | Qty | Value/Model | Description | URL |
 | --- | --- | --- | --- |
-| - | - | 18 AWG Stranded Wire | - |
 | 1 | 4-640426-2 | CONN RCPT 12POS IDC 18AWG TIN 3.96mm | https://www.digikey.com/short/wjbrndfq |
