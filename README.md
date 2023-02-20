@@ -6,6 +6,8 @@
 
 Adapts an ATX power supply for use with the original Xbox.
 
+The v1.2-1.5 PSU connector fits a standard 20 pin ATX plug, v1.0-1.1 fits a 3.96mm pitch connector. Don't cut up your Xbox power supply unless it doesn't work. 
+
 # BOM
 | Qty | Value/Model | Description | Marking | URL (Passive components provided as example) |
 | --- | --- | --- | --- | --- |
