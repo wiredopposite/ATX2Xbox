@@ -26,4 +26,4 @@ The v1.2-1.5 PSU connector fits a standard 4.20mm 20 pin ATX plug, v1.0-1.1 fits
 # Connector for v1.0-1.1 Xbox
 | Qty | Value/Model | Description | URL |
 | --- | --- | --- | --- |
-| 1 | 4-640426-2 | CONN RCPT 12POS IDC 18AWG TIN 3.96mm | https://www.digikey.com/short/wjbrndfq |
+| 1 | 4-640426-2 | 12POS 3.96mm IDC Female | https://www.digikey.com/short/wjbrndfq |
