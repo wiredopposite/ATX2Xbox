@@ -6,7 +6,7 @@
 
 Adapts an ATX power supply for use with the original Xbox.
 
-The v1.2-1.5 PSU connector fits a standard 20 pin ATX plug, v1.0-1.1 fits a 3.96mm pitch connector. Don't cut up your Xbox power supply unless it doesn't work. 
+The v1.2-1.5 PSU connector fits a standard 4.20mm 20 pin ATX plug, v1.0-1.1 fits a 3.96mm pitch connector. Don't cut up your Xbox power supply unless it doesn't work. 
 
 # BOM
 | Qty | Value/Model | Description | Marking | URL (Passive components provided as example) |
@@ -18,13 +18,12 @@ The v1.2-1.5 PSU connector fits a standard 20 pin ATX plug, v1.0-1.1 fits a 3.96
 | 1 | RC0603JR-07470RL | 0603 470 Ohm Resistor | R3 | https://www.digikey.com/short/fc9hb4hm |
 | 1 | TLV1117 3.3v or LM1117IMP 3.3v | IC REG LIN 3.3V 800MA SOT223-4 | U1 | https://www.digikey.com/short/71td288c |
 
-# Cable for v1.2-1.5 Xbox
+# Connector for v1.2-1.5 Xbox
 | Qty | Value/Model | Description | URL |
 | --- | --- | --- | --- |
 | 1 | 0039012200 | 20-pos 4.20MM ATX Plug | https://www.digikey.com/short/9rhwrdtf |
-| 15+ | 0039000038 | CONN SOCKET 18-24AWG CRIMP TIN| https://www.digikey.com/short/97j8jbt2 |
 
-# Cable for v1.0-1.1 Xbox
+# Connector for v1.0-1.1 Xbox
 | Qty | Value/Model | Description | URL |
 | --- | --- | --- | --- |
 | 1 | 4-640426-2 | CONN RCPT 12POS IDC 18AWG TIN 3.96mm | https://www.digikey.com/short/wjbrndfq |
