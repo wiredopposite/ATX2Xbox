@@ -22,6 +22,7 @@ The v1.2-1.5 PSU connector fits a standard 4.20mm 20 pin ATX plug, v1.0-1.1 fits
 | Qty | Value/Model | Description | URL |
 | --- | --- | --- | --- |
 | 1 | 0039012200 | 20-pos 4.20MM ATX Plug | https://www.digikey.com/short/9rhwrdtf |
+| 20 | 0039000038 | CONN SOCKET 18-24AWG CRIMP TIN | https://www.digikey.com/short/25r5h0df |
 
 # Connector for v1.0-1.1 Xbox
 | Qty | Value/Model | Description | URL |
